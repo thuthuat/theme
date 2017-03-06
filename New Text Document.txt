@@ -1,0 +1,2 @@
+http://www.trigent.com/blog/create-your-first-accelerated-mobile-page-with-google-amp/
+https://ampbyexample.com/introduction/hello_world/
