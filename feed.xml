@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+        <webfeeds:logo>https://trucnt.com/favicon.ico</webfeeds:logo>
+	    <atom:link rel="hub" href="//pubsubhubbub.appspot.com"/>
+		<title>Topphoto</title>
+        <description>Topphoto is a big blog about wallpaper, photo</description>	
+		<link>https://trucnt.com</link>
+		<language>vi</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+		<atom:link href="https://trucnt.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>test</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com</url>
+                    <title>test</title>
+                </image>
+				
+				<pubDate>Fri, 30 Dec 2016 05:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/girls-collection-10/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/girls-collection-10/</guid>
+			</item>
+		
+			<item>
+				<title>Beautifull girls collection 1</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com/assets/images/thumbnail/011-thumbnail.jpg</url>
+                    <title>Beautifull girls collection 1</title>
+                </image>
+				
+				<pubDate>Fri, 30 Dec 2016 05:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/girls-collection-1/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/girls-collection-1/</guid>
+			</item>
+		
+			<item>
+				<title>Beautifull tennis girl</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com/assets/images/thumbnail/004-thumbnail.jpg</url>
+                    <title>Beautifull tennis girl</title>
+                </image>
+				
+				<pubDate>Tue, 01 Nov 2016 05:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/tennis-girl/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/tennis-girl/</guid>
+			</item>
+		
+			<item>
+				<title>Beautifull asian girl</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com/assets/images/thumbnail/003-thumbnail.jpg</url>
+                    <title>Beautifull asian girl</title>
+                </image>
+				
+				<pubDate>Tue, 01 Nov 2016 05:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/beautifull-asian-girl/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/beautifull-asian-girl/</guid>
+			</item>
+		
+			<item>
+				<title>Beautiful girl with white dress</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com/assets/images/thumbnail/002-thumbnail.jpg</url>
+                    <title>Beautiful girl with white dress</title>
+                </image>
+				
+				<pubDate>Tue, 01 Nov 2016 04:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/beautiful-white-dress-girl/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/beautiful-white-dress-girl/</guid>
+			</item>
+		
+			<item>
+				<title>Beautiful girl with strap top</title>
+				        
+				
+					<description></description>
+				
+
+				<image>
+                    <url>https://trucnt.com/assets/images/thumbnail/001-thumbnail.jpg</url>
+                    <title>Beautiful girl with strap top</title>
+                </image>
+				
+				<pubDate>Tue, 01 Nov 2016 04:20:51 +0700</pubDate>
+				<link>https://trucnt.com/girl/beautiful-strap-top-girl/</link>
+				<guid isPermaLink="true">https://trucnt.com/girl/beautiful-strap-top-girl/</guid>
+			</item>
+		
+	</channel>
+</rss>
